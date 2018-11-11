@@ -11,5 +11,5 @@ def my_find(collection)
     #end
     i += 1
   end
-  matches
+  #matches
 end
